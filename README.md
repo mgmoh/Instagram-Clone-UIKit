@@ -5,6 +5,7 @@ This is a fully functional Instagram clone app that is a minimal viable product.
 # Features:
 - User Authentication and creating accounts with forgot password functionality.
 - Uploading images
+- Editing photos with filters and resizing feature (YPImagePicker framework)
 - Asynchronous image downloader with cache (SDWebImage framework)
 - Following/Unfollowing users
 - Search for users
