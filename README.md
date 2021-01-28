@@ -19,6 +19,9 @@ This is a fully functional Instagram clone app that is a minimal viable product.
 - Implement ability to delete your account
 - Push notifications feature
 - Search for posts using certain keywords and hashtags
+- Ability to edit profile description
+- Direct messaging profile image not displaying bug
+- Various bug fixes
 
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2021-01-05 at 14 53 25_iphone12black_portrait](https://user-images.githubusercontent.com/65437211/105947359-f92e6580-6036-11eb-951e-31b690639c1b.png)
 ![Simulator Screen Shot - iPhone 11 Pro Max - 2021-01-05 at 15 10 09_iphone12black_portrait](https://user-images.githubusercontent.com/65437211/105947671-85408d00-6037-11eb-9b8d-4a865d1576ce.png)
